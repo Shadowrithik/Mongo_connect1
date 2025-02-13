@@ -1,0 +1,18 @@
+{
+  "name": "express-simple-starter",
+  "private": true,
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "mongoose": "^8.10.0"
+  },
+  "description": "Imagine you are tasked with setting up a backend for a customer management system. The system's database is hosted on MongoDB, and you need to create a Node.js server using Express.js to interact with the database. Your job is to set up the server, connect it to MongoDB atlas, and ensure the connection status is logged appropriately.",
+  "version": "1.0.0",
+  "main": "index.js",
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
